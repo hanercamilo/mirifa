@@ -1,1 +1,0 @@
-import{c as o,X as r,Y as i}from"./index-C-U8uR4l.js";const n=o()(r(i((s,t)=>({seeNav:!0,hourLoaded:"",managementVisited:"",showNav:e=>s(a=>({...a,seeNav:e}),!1,"GestionarNav"),setHourLoaded:e=>s(a=>({...a,hourLoaded:e}),!1,"CargarHoraServer"),setManagementVisited:e=>s(a=>({...a,managementVisited:e}),!1,"AsignarRutaVisitada"),get:t}),{name:"sitio"})));export{n as u};
