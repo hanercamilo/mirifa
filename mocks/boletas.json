@@ -1,0 +1,1273 @@
+{
+    "status": true,
+    "data": {
+        "boletas": [
+            {
+                "id": 1,
+                "numero": "00",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 4:22:00 p. m.",
+                "cliente": {
+                    "id": 51,
+                    "nombre": "Ro****** ***a*",
+                    "direccion": "*l**en***",
+                    "telefono": "*15**3*0**"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 2,
+                "numero": "01",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:32:00 p. m.",
+                "cliente": {
+                    "id": 21,
+                    "nombre": "******L L**A**",
+                    "direccion": "*** F*SC**Í*",
+                    "telefono": "********81"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 3,
+                "numero": "02",
+                "estado": "Pagada",
+                "fechaCompra": "7/06/2024 4:28:00 p. m.",
+                "cliente": {
+                    "id": 32,
+                    "nombre": "*en**h ***a ***a**",
+                    "direccion": "***do*i*io ***** *** *st*",
+                    "telefono": "3********5"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 4,
+                "numero": "03",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 10:56:00 p. m.",
+                "cliente": {
+                    "id": 77,
+                    "nombre": "**rlo* ***z*s",
+                    "direccion": "****en*ia",
+                    "telefono": "****2*****"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 5,
+                "numero": "04",
+                "estado": "Pagada",
+                "fechaCompra": "10/06/2024 3:50:00 p. m.",
+                "cliente": {
+                    "id": 46,
+                    "nombre": "*U**** **LL*R**G*",
+                    "direccion": "*O****",
+                    "telefono": "******34**"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 6,
+                "numero": "05",
+                "estado": "Pagada",
+                "fechaCompra": "10/06/2024 4:00:00 p. m.",
+                "cliente": {
+                    "id": 47,
+                    "nombre": "**C**L*** ****OS ******",
+                    "direccion": "***** *E* **T*",
+                    "telefono": "**3*****7*"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 7,
+                "numero": "06",
+                "estado": "Pagada",
+                "fechaCompra": "10/06/2024 3:52:00 p. m.",
+                "cliente": {
+                    "id": 45,
+                    "nombre": "****** *LA*** **R**S",
+                    "direccion": "**G*T*",
+                    "telefono": "*1***3*8**"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 8,
+                "numero": "07",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 10:51:00 a. m.",
+                "cliente": {
+                    "id": 9,
+                    "nombre": "**** ***l*n*",
+                    "direccion": "****** M*r****",
+                    "telefono": "*1********"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 9,
+                "numero": "08",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:18:00 p. m.",
+                "cliente": {
+                    "id": 15,
+                    "nombre": "***d** * *ab****",
+                    "direccion": "**A 3 10-*2 l* *****l**",
+                    "telefono": "****0****8"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 10,
+                "numero": "09",
+                "estado": "Pagada",
+                "fechaCompra": "10/06/2024 3:52:00 p. m.",
+                "cliente": {
+                    "id": 40,
+                    "nombre": "*I*** *N*O*** **A***",
+                    "direccion": "***R*O L* *A*",
+                    "telefono": "*1***9****"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 11,
+                "numero": "10",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:36:00 p. m.",
+                "cliente": {
+                    "id": 25,
+                    "nombre": "*A***** *A*R*** T*****",
+                    "direccion": "FL*R****A",
+                    "telefono": "**1******9"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 12,
+                "numero": "11",
+                "estado": "Pagada",
+                "fechaCompra": "6/06/2024 3:20:00 p. m.",
+                "cliente": {
+                    "id": 22,
+                    "nombre": "*A***O* A*OS*A",
+                    "direccion": "***RE****",
+                    "telefono": "********60"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 13,
+                "numero": "12",
+                "estado": "Disponible",
+                "fechaCompra": null,
+                "cliente": null,
+                "ganadora": false
+            },
+            {
+                "id": 14,
+                "numero": "13",
+                "estado": "Pagada",
+                "fechaCompra": "10/06/2024 3:56:00 p. m.",
+                "cliente": {
+                    "id": 41,
+                    "nombre": "*AR*N **L***AN ****S",
+                    "direccion": "***** D** ***E",
+                    "telefono": "***3***7*1"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 15,
+                "numero": "14",
+                "estado": "Pagada",
+                "fechaCompra": "6/06/2024 3:20:00 p. m.",
+                "cliente": {
+                    "id": 23,
+                    "nombre": "*C**E** ******A",
+                    "direccion": "**G***",
+                    "telefono": "**159**1**"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 16,
+                "numero": "15",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:36:00 p. m.",
+                "cliente": {
+                    "id": 26,
+                    "nombre": "C***O* *N**E* O*T*** ******",
+                    "direccion": "FL*******",
+                    "telefono": "31****6***"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 17,
+                "numero": "16",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:19:00 p. m.",
+                "cliente": {
+                    "id": 16,
+                    "nombre": "*O**** A *O*AS",
+                    "direccion": "*o*erna*i*n *e ******á S**",
+                    "telefono": "31*****9**"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 18,
+                "numero": "17",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 4:21:00 p. m.",
+                "cliente": {
+                    "id": 11,
+                    "nombre": "W***e* M*s*u*r*",
+                    "direccion": "F****b**",
+                    "telefono": "3***8*****"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 19,
+                "numero": "18",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:03:00 p. m.",
+                "cliente": {
+                    "id": 55,
+                    "nombre": "O**** L****a",
+                    "direccion": "***renc*a",
+                    "telefono": "*****0*1**"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 20,
+                "numero": "19",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:44:00 p. m.",
+                "cliente": {
+                    "id": 33,
+                    "nombre": "J*s* ******* **v*r",
+                    "direccion": "*lc**di* ** *******ia *****i******v*",
+                    "telefono": "**********"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 21,
+                "numero": "20",
+                "estado": "Disponible",
+                "fechaCompra": null,
+                "cliente": null,
+                "ganadora": false
+            },
+            {
+                "id": 22,
+                "numero": "21",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:33:00 p. m.",
+                "cliente": {
+                    "id": 24,
+                    "nombre": "H*C*** ***N** ******",
+                    "direccion": "FL***N**A",
+                    "telefono": "3*****4**7"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 23,
+                "numero": "22",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:04:00 p. m.",
+                "cliente": {
+                    "id": 56,
+                    "nombre": "G**R** **I** *E EL***",
+                    "direccion": "**E*U**",
+                    "telefono": "*2**48*7*6"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 24,
+                "numero": "23",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:09:00 p. m.",
+                "cliente": {
+                    "id": 62,
+                    "nombre": "***D* A**P*",
+                    "direccion": "****E****",
+                    "telefono": "3**5******"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 25,
+                "numero": "24",
+                "estado": "Pagada",
+                "fechaCompra": "18/06/2024 8:38:00 a. m.",
+                "cliente": {
+                    "id": 2,
+                    "nombre": "*i*l*** *i***** **l**** ***a",
+                    "direccion": "I*a*** *****a",
+                    "telefono": "**0847*75*"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 26,
+                "numero": "25",
+                "estado": "Pagada",
+                "fechaCompra": "6/06/2024 2:16:00 p. m.",
+                "cliente": {
+                    "id": 17,
+                    "nombre": "****E* R**I* G****N",
+                    "direccion": "HA****ON ****R*O ******",
+                    "telefono": "**9*******"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 27,
+                "numero": "26",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:47:00 p. m.",
+                "cliente": {
+                    "id": 34,
+                    "nombre": "***** *******a ****s",
+                    "direccion": "Al*** d* *** ***g*",
+                    "telefono": "***5****2*"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 28,
+                "numero": "27",
+                "estado": "Pagada",
+                "fechaCompra": "13/06/2024 9:18:00 p. m.",
+                "cliente": {
+                    "id": 12,
+                    "nombre": "****** **h*v***i*",
+                    "direccion": "**pe*mío ***s*****",
+                    "telefono": "*****7*932"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 29,
+                "numero": "28",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:36:00 p. m.",
+                "cliente": {
+                    "id": 25,
+                    "nombre": "******* ***RE** T****S",
+                    "direccion": "*LO*E***A",
+                    "telefono": "3*1*0*8**9"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 30,
+                "numero": "29",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 4:22:00 p. m.",
+                "cliente": {
+                    "id": 54,
+                    "nombre": "*ilson L**n",
+                    "direccion": "Fl*r*****",
+                    "telefono": "**3*******"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 31,
+                "numero": "30",
+                "estado": "Pagada",
+                "fechaCompra": "13/06/2024 2:17:00 p. m.",
+                "cliente": {
+                    "id": 3,
+                    "nombre": "***** ****n* ***j**** *r*****",
+                    "direccion": "***v* - **c****",
+                    "telefono": "****41***9"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 32,
+                "numero": "31",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:09:00 p. m.",
+                "cliente": {
+                    "id": 68,
+                    "nombre": "***** **P*D** ***G* *LIZ*",
+                    "direccion": "E**.*.U",
+                    "telefono": "*****2****"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 33,
+                "numero": "32",
+                "estado": "Pagada",
+                "fechaCompra": "6/06/2024 3:26:00 p. m.",
+                "cliente": {
+                    "id": 31,
+                    "nombre": "R***N **R** ZU*U***",
+                    "direccion": "P*R***** ****E*C*A",
+                    "telefono": "******94**"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 34,
+                "numero": "33",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:50:00 p. m.",
+                "cliente": {
+                    "id": 76,
+                    "nombre": "**R***** *SP**A *****T***O",
+                    "direccion": "F********",
+                    "telefono": "3*********"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 35,
+                "numero": "34",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:04:00 p. m.",
+                "cliente": {
+                    "id": 57,
+                    "nombre": "*******A* **L*UE**",
+                    "direccion": "*LOR*****",
+                    "telefono": "***3*90**7"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 36,
+                "numero": "35",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:37:00 p. m.",
+                "cliente": {
+                    "id": 27,
+                    "nombre": "**E** **D*** TA*T*",
+                    "direccion": "***A**** ** FL***N*I* *DU******",
+                    "telefono": "3*****218*"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 37,
+                "numero": "36",
+                "estado": "Pagada",
+                "fechaCompra": "6/06/2024 2:16:00 p. m.",
+                "cliente": {
+                    "id": 18,
+                    "nombre": "*M**** ZU***** ******",
+                    "direccion": "*R* ** **-*6 **R*****",
+                    "telefono": "3***8***24"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 38,
+                "numero": "37",
+                "estado": "Disponible",
+                "fechaCompra": null,
+                "cliente": null,
+                "ganadora": false
+            },
+            {
+                "id": 39,
+                "numero": "38",
+                "estado": "Pagada",
+                "fechaCompra": "10/06/2024 3:53:00 p. m.",
+                "cliente": {
+                    "id": 44,
+                    "nombre": "***I*O CEL**",
+                    "direccion": "TE***ER*A",
+                    "telefono": "***38***9*"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 40,
+                "numero": "39",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:10:00 p. m.",
+                "cliente": {
+                    "id": 63,
+                    "nombre": "ED*** ***L",
+                    "direccion": "****E****",
+                    "telefono": "**3*2**11*"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 41,
+                "numero": "40",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:40:00 p. m.",
+                "cliente": {
+                    "id": 74,
+                    "nombre": "***f***** **f***",
+                    "direccion": "**M *L**E****",
+                    "telefono": "*********8"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 42,
+                "numero": "41",
+                "estado": "Pagada",
+                "fechaCompra": "19/06/2024 10:37:00 a. m.",
+                "cliente": {
+                    "id": 8,
+                    "nombre": "***** ******** *******",
+                    "direccion": "*******i* * *or**",
+                    "telefono": "3*********"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 43,
+                "numero": "42",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:54:00 p. m.",
+                "cliente": {
+                    "id": 37,
+                    "nombre": "***** L An****",
+                    "direccion": "A******* *e F*or*nc** *d****st*a****",
+                    "telefono": "**1******4"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 44,
+                "numero": "43",
+                "estado": "Pagada",
+                "fechaCompra": "6/06/2024 3:26:00 p. m.",
+                "cliente": {
+                    "id": 23,
+                    "nombre": "******* *******",
+                    "direccion": "**G***",
+                    "telefono": "*******1**"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 45,
+                "numero": "44",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:10:00 p. m.",
+                "cliente": {
+                    "id": 64,
+                    "nombre": "T***A** ****A**",
+                    "direccion": "****E*C**",
+                    "telefono": "3*0***5*4*"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 46,
+                "numero": "45",
+                "estado": "Pagada",
+                "fechaCompra": "13/06/2024 2:14:00 p. m.",
+                "cliente": {
+                    "id": 6,
+                    "nombre": "Yar**** *a*la **e***o **e*te*",
+                    "direccion": "***va * Al*****",
+                    "telefono": "**********"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 47,
+                "numero": "46",
+                "estado": "Pagada",
+                "fechaCompra": "6/06/2024 2:17:00 p. m.",
+                "cliente": {
+                    "id": 17,
+                    "nombre": "**U*E* **C** G****N",
+                    "direccion": "*A***T** ****R** **N***",
+                    "telefono": "**9887****"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 48,
+                "numero": "47",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:05:00 p. m.",
+                "cliente": {
+                    "id": 58,
+                    "nombre": "**RNAN** ******* ***O*",
+                    "direccion": "M**A*",
+                    "telefono": "********84"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 49,
+                "numero": "48",
+                "estado": "Pagada",
+                "fechaCompra": "11/06/2024 4:08:00 p. m.",
+                "cliente": {
+                    "id": 13,
+                    "nombre": "*u* *dri*** G******",
+                    "direccion": "****e ** * ** ** * ** ** P***en**",
+                    "telefono": "********94"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 50,
+                "numero": "49",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:13:00 p. m.",
+                "cliente": {
+                    "id": 69,
+                    "nombre": "***e*a* ***n",
+                    "direccion": "*un**l",
+                    "telefono": "*13*7**9*2"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 51,
+                "numero": "50",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:10:00 p. m.",
+                "cliente": {
+                    "id": 65,
+                    "nombre": "****** *****",
+                    "direccion": "*********",
+                    "telefono": "3*26****8*"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 52,
+                "numero": "51",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:05:00 p. m.",
+                "cliente": {
+                    "id": 59,
+                    "nombre": "*IC*A** *ND**S **** M**R**",
+                    "direccion": "*OL***",
+                    "telefono": "****3*****"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 53,
+                "numero": "52",
+                "estado": "Pagada",
+                "fechaCompra": "6/06/2024 3:27:00 p. m.",
+                "cliente": {
+                    "id": 23,
+                    "nombre": "*C**E** ***D**A",
+                    "direccion": "*O****",
+                    "telefono": "*******1**"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 54,
+                "numero": "53",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:41:00 p. m.",
+                "cliente": {
+                    "id": 28,
+                    "nombre": "**I*T*** *A**RE* *",
+                    "direccion": "****R** **GU**A ******C**",
+                    "telefono": "**1**12**2"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 55,
+                "numero": "54",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 4:22:00 p. m.",
+                "cliente": {
+                    "id": 54,
+                    "nombre": "**ls** L**n",
+                    "direccion": "**o******",
+                    "telefono": "***8******"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 56,
+                "numero": "55",
+                "estado": "Pagada",
+                "fechaCompra": "27/06/2024 4:11:00 p. m.",
+                "cliente": {
+                    "id": 50,
+                    "nombre": "******* * *",
+                    "direccion": "***re****",
+                    "telefono": "**********"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 57,
+                "numero": "56",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:41:00 p. m.",
+                "cliente": {
+                    "id": 29,
+                    "nombre": "**NEY** **O** O*****",
+                    "direccion": "*****D** ** **OR*N*** D*S****O",
+                    "telefono": "****8**3*6"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 58,
+                "numero": "57",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:51:00 p. m.",
+                "cliente": {
+                    "id": 36,
+                    "nombre": "Ge*t***** **r*** C*a*a",
+                    "direccion": "******** de Fl**e**i* **minis**a****",
+                    "telefono": "*******54*"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 59,
+                "numero": "58",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:11:00 p. m.",
+                "cliente": {
+                    "id": 63,
+                    "nombre": "*D*** ****",
+                    "direccion": "*********",
+                    "telefono": "**3*21**1*"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 60,
+                "numero": "59",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:14:00 p. m.",
+                "cliente": {
+                    "id": 70,
+                    "nombre": "U*i*** **nc*l",
+                    "direccion": "E* Ju*ca* ****a",
+                    "telefono": "3*033*****"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 61,
+                "numero": "60",
+                "estado": "Pagada",
+                "fechaCompra": "26/06/2024 7:29:00 p. m.",
+                "cliente": {
+                    "id": 49,
+                    "nombre": "Jo***** ****é****",
+                    "direccion": "****e*c** **q*e*á",
+                    "telefono": "**24******"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 62,
+                "numero": "61",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:14:00 p. m.",
+                "cliente": {
+                    "id": 73,
+                    "nombre": "**** *****",
+                    "direccion": "** *u****",
+                    "telefono": "**********"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 63,
+                "numero": "62",
+                "estado": "Disponible",
+                "fechaCompra": null,
+                "cliente": null,
+                "ganadora": false
+            },
+            {
+                "id": 64,
+                "numero": "63",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:11:00 p. m.",
+                "cliente": {
+                    "id": 66,
+                    "nombre": "V*V*ANA *O**",
+                    "direccion": "*********",
+                    "telefono": "********88"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 65,
+                "numero": "64",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:54:00 p. m.",
+                "cliente": {
+                    "id": 34,
+                    "nombre": "*ar** ******** *****",
+                    "direccion": "***** ** S** ***ge",
+                    "telefono": "*******1**"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 66,
+                "numero": "65",
+                "estado": "Pagada",
+                "fechaCompra": "6/06/2024 3:27:00 p. m.",
+                "cliente": {
+                    "id": 23,
+                    "nombre": "****E** ***D***",
+                    "direccion": "**G***",
+                    "telefono": "**1*9*****"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 67,
+                "numero": "66",
+                "estado": "Pagada",
+                "fechaCompra": "10/06/2024 3:54:00 p. m.",
+                "cliente": {
+                    "id": 43,
+                    "nombre": "**A ***** ******",
+                    "direccion": "B****O ACACI**",
+                    "telefono": "3*0****8**"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 68,
+                "numero": "67",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:05:00 p. m.",
+                "cliente": {
+                    "id": 57,
+                    "nombre": "***AST*** V*L*U***",
+                    "direccion": "***R**C**",
+                    "telefono": "***3*90***"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 69,
+                "numero": "68",
+                "estado": "Pagada",
+                "fechaCompra": "11/06/2024 4:07:00 p. m.",
+                "cliente": {
+                    "id": 48,
+                    "nombre": "Ter**a *i**ld* *e**z***z",
+                    "direccion": "***** *4* 3B * **",
+                    "telefono": "**1*****4*"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 70,
+                "numero": "69",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:14:00 p. m.",
+                "cliente": {
+                    "id": 71,
+                    "nombre": "Hal** ***v*n ****",
+                    "direccion": "El J****l",
+                    "telefono": "******5**4"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 71,
+                "numero": "70",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:06:00 p. m.",
+                "cliente": {
+                    "id": 60,
+                    "nombre": "*E**** *****",
+                    "direccion": "***A*",
+                    "telefono": "**1*1**44*"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 72,
+                "numero": "71",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:11:00 p. m.",
+                "cliente": {
+                    "id": 67,
+                    "nombre": "*RB**N ******",
+                    "direccion": "*****N***",
+                    "telefono": "****0****9"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 73,
+                "numero": "72",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 4:21:00 p. m.",
+                "cliente": {
+                    "id": 53,
+                    "nombre": "***i** *****d*",
+                    "direccion": "******cia",
+                    "telefono": "****39**2*"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 74,
+                "numero": "73",
+                "estado": "Pagada",
+                "fechaCompra": "10/06/2024 3:55:00 p. m.",
+                "cliente": {
+                    "id": 42,
+                    "nombre": "**AN CL**** *",
+                    "direccion": "*A**IO AT***Y*",
+                    "telefono": "**08*4****"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 75,
+                "numero": "74",
+                "estado": "Pagada",
+                "fechaCompra": "6/06/2024 2:17:00 p. m.",
+                "cliente": {
+                    "id": 17,
+                    "nombre": "**URE* **C** ******",
+                    "direccion": "*****TO* ******O C*N**A",
+                    "telefono": "**********"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 76,
+                "numero": "75",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:15:00 p. m.",
+                "cliente": {
+                    "id": 71,
+                    "nombre": "****n ***v** ****",
+                    "direccion": "*l **n*al",
+                    "telefono": "**2***5*0*"
+                },
+                "ganadora": true
+            },
+            {
+                "id": 77,
+                "numero": "76",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:55:00 p. m.",
+                "cliente": {
+                    "id": 39,
+                    "nombre": "Y***** A****e",
+                    "direccion": "****e**i*",
+                    "telefono": "**12******"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 78,
+                "numero": "77",
+                "estado": "Pagada",
+                "fechaCompra": "6/06/2024 3:43:00 p. m.",
+                "cliente": {
+                    "id": 30,
+                    "nombre": "****R * *E***",
+                    "direccion": "***A**** ** ******C** ***C**A J****IC*",
+                    "telefono": "*****1*4*8"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 79,
+                "numero": "78",
+                "estado": "Pagada",
+                "fechaCompra": "27/06/2024 10:34:00 a. m.",
+                "cliente": {
+                    "id": 4,
+                    "nombre": "J*** A*exi* *o*o ***a***",
+                    "direccion": "***gu* * A*c**os",
+                    "telefono": "*1******5*"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 80,
+                "numero": "79",
+                "estado": "Pagada",
+                "fechaCompra": "27/06/2024 9:38:00 a. m.",
+                "cliente": {
+                    "id": 10,
+                    "nombre": "**a** **o**o ****ea",
+                    "direccion": "*a*** *6 A ** * * *1 H. ******",
+                    "telefono": "3***4*****"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 81,
+                "numero": "80",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 4:22:00 p. m.",
+                "cliente": {
+                    "id": 54,
+                    "nombre": "*ils*n ***n",
+                    "direccion": "*l*r*****",
+                    "telefono": "***8******"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 82,
+                "numero": "81",
+                "estado": "Pagada",
+                "fechaCompra": "4/06/2024 5:16:00 p. m.",
+                "cliente": {
+                    "id": 5,
+                    "nombre": "**bl* *nd*** ***en* ****a*v*",
+                    "direccion": "**agu* * A******",
+                    "telefono": "30*5**6987"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 83,
+                "numero": "82",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:27:00 p. m.",
+                "cliente": {
+                    "id": 19,
+                    "nombre": "B****Z** *****G*E* ***E*A",
+                    "direccion": "A******A ** ****E**** ********",
+                    "telefono": "31***9****"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 84,
+                "numero": "83",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 7:44:00 p. m.",
+                "cliente": {
+                    "id": 72,
+                    "nombre": "***ur y **l**i",
+                    "direccion": "** **nc**",
+                    "telefono": "**7******5"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 85,
+                "numero": "84",
+                "estado": "Disponible",
+                "fechaCompra": null,
+                "cliente": null,
+                "ganadora": false
+            },
+            {
+                "id": 86,
+                "numero": "85",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:07:00 p. m.",
+                "cliente": {
+                    "id": 56,
+                    "nombre": "G***** A*I** *E E****",
+                    "direccion": "*.**U**",
+                    "telefono": "*22*48**16"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 87,
+                "numero": "86",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 4:22:00 p. m.",
+                "cliente": {
+                    "id": 54,
+                    "nombre": "*i*s*n ***n",
+                    "direccion": "F**r*****",
+                    "telefono": "3*******2*"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 88,
+                "numero": "87",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:15:00 p. m.",
+                "cliente": {
+                    "id": 69,
+                    "nombre": "******* **ón",
+                    "direccion": "*un**l",
+                    "telefono": "*13*7**9**"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 89,
+                "numero": "88",
+                "estado": "Pagada",
+                "fechaCompra": "10/06/2024 3:54:00 p. m.",
+                "cliente": {
+                    "id": 46,
+                    "nombre": "****** **L*******",
+                    "direccion": "*OG**A",
+                    "telefono": "******3***"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 90,
+                "numero": "89",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:56:00 p. m.",
+                "cliente": {
+                    "id": 38,
+                    "nombre": "*l**** T*****l*",
+                    "direccion": "*** ** * ** ***r**ci*",
+                    "telefono": "32**2*****"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 91,
+                "numero": "90",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 4:22:00 p. m.",
+                "cliente": {
+                    "id": 52,
+                    "nombre": "***n *****",
+                    "direccion": "***r*n**a",
+                    "telefono": "**********"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 92,
+                "numero": "91",
+                "estado": "Pagada",
+                "fechaCompra": "27/06/2024 10:39:00 p. m.",
+                "cliente": {
+                    "id": 1,
+                    "nombre": "*an** *a**l* P**** ****",
+                    "direccion": "C**** 1* * #** - *2 ** ******ir",
+                    "telefono": "3********0"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 93,
+                "numero": "92",
+                "estado": "Disponible",
+                "fechaCompra": null,
+                "cliente": null,
+                "ganadora": false
+            },
+            {
+                "id": 94,
+                "numero": "93",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 10:51:00 a. m.",
+                "cliente": {
+                    "id": 11,
+                    "nombre": "Wi**e* **sq**r*",
+                    "direccion": "*o**ib**",
+                    "telefono": "**********"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 95,
+                "numero": "94",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:27:00 p. m.",
+                "cliente": {
+                    "id": 20,
+                    "nombre": "S**GI* **** G****A",
+                    "direccion": "******** D* ***R**C** *E*****O",
+                    "telefono": "****5**3**"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 96,
+                "numero": "95",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:07:00 p. m.",
+                "cliente": {
+                    "id": 61,
+                    "nombre": "***** M****",
+                    "direccion": "**E****",
+                    "telefono": "**5906*8**"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 97,
+                "numero": "96",
+                "estado": "Pagada",
+                "fechaCompra": "19/06/2024 9:23:00 p. m.",
+                "cliente": {
+                    "id": 14,
+                    "nombre": "***r* ****r** *a**i****co *a*v*d**",
+                    "direccion": "Iba*u* * *******",
+                    "telefono": "*1********"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 98,
+                "numero": "97",
+                "estado": "Pagada",
+                "fechaCompra": "29/06/2024 5:16:00 p. m.",
+                "cliente": {
+                    "id": 54,
+                    "nombre": "**l*o* L**n",
+                    "direccion": "*********",
+                    "telefono": "***8******"
+                },
+                "ganadora": false
+            },
+            {
+                "id": 99,
+                "numero": "98",
+                "estado": "Disponible",
+                "fechaCompra": null,
+                "cliente": null,
+                "ganadora": false
+            },
+            {
+                "id": 100,
+                "numero": "99",
+                "estado": "Pagada",
+                "fechaCompra": "17/06/2024 5:55:00 p. m.",
+                "cliente": {
+                    "id": 7,
+                    "nombre": "*o*n*y ******* *ol**** *****",
+                    "direccion": "**a*** * Al*****",
+                    "telefono": "*1*******3"
+                },
+                "ganadora": false
+            }
+        ]
+    },
+    "errors": null
+}

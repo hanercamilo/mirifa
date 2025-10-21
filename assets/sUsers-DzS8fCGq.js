@@ -1,0 +1,1 @@
+import{c as u}from"./index-Cfzuxuk1.js";const n=u()((t,a)=>({totalCount:0,count:0,value:[],setUsersData:(e,s,o)=>(t(r=>({...r,totalCount:e,count:s,value:o.value})),a(),Promise.resolve()),cleanUsers:async()=>{t(e=>({...e,totalCount:0,count:0,value:[]}),!1)}}));export{n as u};
